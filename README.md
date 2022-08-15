@@ -4,7 +4,7 @@ Some tools for latex-based paper.
 ## CleanBib.py
 Read reference in bib and tex files to find redundent reference. 
 
-`python3 CleanBib.py -d [tex folders] -b [bib txt file]`
+`python3 CleanBib.py -d [tex folder] -b [bib txt file]`
 
 ## ToParagraph.py
 Remove "-\n" to construct paragraph text.
