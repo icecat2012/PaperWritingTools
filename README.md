@@ -13,12 +13,19 @@ Remove "-\n" to construct paragraph text.
 3. copy paragraph content to Grammarly for syntax check. 
 
 eg: 
+
 input: 
+
 "I am stu-" 
+
 "dying." 
+
 "" 
+
 "icecat2012." 
  
 output: 
+
 "I am studying." 
+
 "icecat2012." 
