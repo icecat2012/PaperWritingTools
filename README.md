@@ -2,7 +2,8 @@
 Some tools for latex-based paper.
 
 ## CleanBib.py
-Read reference in bib and tex files to find redundent reference.
+Read reference in bib and tex files to find redundent reference. 
+
 `python3 CleanBib.py -d [tex folders] -b [bib txt file]`
 
 ## ToParagraph.py
